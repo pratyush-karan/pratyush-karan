@@ -1,8 +1,9 @@
 ## I'm Pratyush Karan!
-<hr />
+
 Frontend Software Engineer
 
 A little about me...
+
 ```js
 const pratyush = {
     bio: "I'm a Frontend Software Engineer with 3+ years of expertise specializing in
