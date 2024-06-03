@@ -3,7 +3,7 @@
 Frontend Software Engineer
 
 A little about me...
-```
+```js
 const pratyush = {
     bio: "I'm a Frontend Software Engineer with 3+ years of expertise specializing in
 crafting dynamic, user friendly web applications using React.js and Next.js.",
