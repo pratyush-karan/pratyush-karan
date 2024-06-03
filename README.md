@@ -6,7 +6,8 @@ A little about me...
 
 ```js
 const pratyush = {
-    bio: "I'm a Frontend Software Engineer with 3+ years of expertise specializing in crafting dynamic, user friendly web applications using React.js and Next.js.",
+    bio: "I'm a Frontend Software Engineer with 3+ years of expertise specializing in crafting dynamic,
+          user friendly web applications using React.js and Next.js.",
     code: ["Javascript", "TypeScript", "C++", "Python"],
     askMeAbout: ["web dev", "tech", "frontend", "gym-enthusiast", "fast-bowler"],
     technologies: {
