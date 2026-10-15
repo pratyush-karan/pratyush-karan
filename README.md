@@ -6,7 +6,7 @@ A little about me...
 
 ```js
 const pratyush = {
-    bio: "dev",
+    bio: "software engineer",
     code: ["Javascript", "TypeScript", "C++", "Python"],
     askMeAbout: ["web dev", "tech", "frontend", "gym-enthusiast", "fast-bowler"],
     technologies: {
